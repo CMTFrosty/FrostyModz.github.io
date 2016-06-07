@@ -1,0 +1,8 @@
+Origin: FrostyModz Public Repository
+Label: FrostyModz Public Repo
+Suite: stable
+Version: 0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Main FrostyModz Repo
